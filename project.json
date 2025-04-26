@@ -4,6 +4,8 @@
   "description": "Bilal Guler - Thesis Project - Yıldız Technical University",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[3.0.1]",
+    "UiPath.PDF.Activities": "[3.22.1]",
     "UiPath.System.Activities": "[25.2.1]"
   },
   "webServices": [],
